@@ -6,7 +6,11 @@ public class Word {
 		
 		helloword();
 		System.out.println("Yolo!!!!!");
+
 		System.out.println("Hi I'm Master");;
+
+		System.out.println("Hi, I'm Hello");
+
 	}
 	
 	public static void helloword()
